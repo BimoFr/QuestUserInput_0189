@@ -58,7 +58,6 @@ fun FormDataDiri(modifier: Modifier) {
                         })
                     Text(item)
                 }
-                }
             }
         }
     }
