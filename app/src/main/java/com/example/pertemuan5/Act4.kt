@@ -104,6 +104,8 @@ fun FormDataDiri(modifier: Modifier) {
                     id = R.dimen.padding_medium
                 )
             ),
-
+            thickness = dimensionResource(R.dimen.divider_tipis),
+            color = Color.DarkGray
+        )
     }
 }
